@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "CustomL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypesSuggester", "NumericTypesSuggester\NumericTypesSuggester.csproj", "{1780D997-9085-41EA-945E-43B720FFF264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsDataAggregator", "TicketsDataAggregator\TicketsDataAggregator.csproj", "{A056462E-97E9-4F48-BF96-CAAC93B84CCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{1780D997-9085-41EA-945E-43B720FFF264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1780D997-9085-41EA-945E-43B720FFF264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1780D997-9085-41EA-945E-43B720FFF264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A056462E-97E9-4F48-BF96-CAAC93B84CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A056462E-97E9-4F48-BF96-CAAC93B84CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A056462E-97E9-4F48-BF96-CAAC93B84CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A056462E-97E9-4F48-BF96-CAAC93B84CCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
